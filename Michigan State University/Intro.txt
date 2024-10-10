@@ -6,3 +6,7 @@ Nowadays, I've narrowed that interest in science to condensed matter physics bec
 As a student, as a researcher, and as a person, I'm driven by an unstoppable motivation and dedication to do what I love. For years now, I've given my undergraduate education twelve hour days, five days a week, no break during summers. However, I find it necessary to balance this by channeling my energy towards music, teaching myself acoustic guitar, and during (rare) clear night skies, I keep my astronomy equipment from gathering dust.
 
 My desire to deeply engage with all my passions also led me to create a thriving community at Western Michigan University through Physics Club, a supportive environment for anyone who shares a love of physics, knowledge, and the natural world.
+
+%%%%%%%%%%
+\subsubsection*{Beyond Physics}
+As a student, as a researcher, and as a person, I'm driven by an unwavering motivation to pursue all that I'm passionate about. My first passion, astronomy, I was introduced to with a small plastic telescope, which I believe was when I first learned perserverence. This was also when I learned that I wanted to be a scientist.
