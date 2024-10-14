@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1728675685.33284 "/home/snyderethan/Documents/GradSchool/Michigan State University/AcademicStatement/AcademicState_EthanSnyder.tex" "Spam/AcademicState_EthanSnyder.pdf" "AcademicState_EthanSnyder" 1728675686.11365 0
-  "/home/snyderethan/Documents/GradSchool/Michigan State University/AcademicStatement/AcademicState_EthanSnyder.tex" 1728675685.10659 8107 29adb6bcc8a743f832eb40fd56513c33 ""
+["pdflatex"] 1728927941.86364 "/home/snyderethan/Documents/GradSchool/Michigan State University/AcademicStatement/AcademicState_EthanSnyder.tex" "Spam/AcademicState_EthanSnyder.pdf" "AcademicState_EthanSnyder" 1728927942.6366 0
+  "/home/snyderethan/Documents/GradSchool/Michigan State University/AcademicStatement/AcademicState_EthanSnyder.tex" 1728927940.74452 8190 dbd4c520e6e11de30715092f2ebec610 ""
   "/opt/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1705295583 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1705295583 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/opt/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1705295583 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -107,8 +107,8 @@
   "/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1705295583 4993085 10f867d59789a501675bb496fbd98e76 ""
   "/opt/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1705295583 8218946 2d9299f4922b0073af7fd7c4979c5e3e ""
   "/opt/texlive/2023/texmf.cnf" 1705295583 585 cbdac2c540e67e6925735bc924caa885 ""
-  "AcademicState_EthanSnyder.tex" 1728675685.10659 8107 29adb6bcc8a743f832eb40fd56513c33 ""
-  "Spam/AcademicState_EthanSnyder.aux" 1728675686.05327 562 9c290ba316305ae3c63f85d6f47c544b "pdflatex"
+  "AcademicState_EthanSnyder.tex" 1728927940.74452 8190 dbd4c520e6e11de30715092f2ebec610 ""
+  "Spam/AcademicState_EthanSnyder.aux" 1728927942.56788 565 6fb64b65d3272681fe3ee5593a79cb95 "pdflatex"
   (generated)
   "Spam/AcademicState_EthanSnyder.aux"
   "Spam/AcademicState_EthanSnyder.log"
