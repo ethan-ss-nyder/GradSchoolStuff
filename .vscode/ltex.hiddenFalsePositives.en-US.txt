@@ -1,0 +1,2 @@
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QI'm eager to apply all that I've learned towards the fascinating research at , particularly in areas that align with my interest in quantum computing and my thorough computational experience with condensed matter physics.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QWhy I choose .\\E$"}
