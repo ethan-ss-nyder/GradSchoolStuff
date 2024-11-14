@@ -7,3 +7,7 @@ functionals
 VASP
 WMU
 AlGaAs
+URICS
+Joynt
+Friesen
+heterostructures
