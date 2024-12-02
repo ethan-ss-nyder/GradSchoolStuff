@@ -3,7 +3,7 @@ INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
 INPUT c:/Users/ethan/Documents/GradSchoolStuff/Texas/StatePurpose_EthanSnyder.tex
-OUTPUT StatePurpose_EthanSnyder.log
+OUTPUT Spam/StatePurpose_EthanSnyder.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/base/size11.clo
@@ -149,10 +149,10 @@ INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./StatePurpose_EthanSnyder.aux
-INPUT ./StatePurpose_EthanSnyder.aux
-INPUT StatePurpose_EthanSnyder.aux
-OUTPUT StatePurpose_EthanSnyder.aux
+INPUT Spam/StatePurpose_EthanSnyder.aux
+INPUT Spam/StatePurpose_EthanSnyder.aux
+INPUT Spam/StatePurpose_EthanSnyder.aux
+OUTPUT Spam/StatePurpose_EthanSnyder.aux
 INPUT c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -172,9 +172,9 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-OUTPUT StatePurpose_EthanSnyder.pdf
+OUTPUT Spam/StatePurpose_EthanSnyder.pdf
 INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT StatePurpose_EthanSnyder.aux
+INPUT Spam/StatePurpose_EthanSnyder.aux
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
